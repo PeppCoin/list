@@ -1,15 +1,15 @@
 {
   "name": "PeppSwap List",
-  "logoURI": "https://peppcoin.github.io/logos/0xae70b9223348af9875c49ec7b9E5B5Ba5bBb635a.png",
+  "logoURI": "https://peppcoin.github.io/list/logos/0xae70b9223348af9875c49ec7b9E5B5Ba5bBb635a.png",
   "keywords": [
     "peppswap"
   ],
   "timestamp": "2023-05-11T01:01:51.032Z",
   "tags": {},
   "version": {
-    "major": 0,
-    "minor": 1,
-    "patch": 1
+    "major": 1,
+    "minor": 2,
+    "patch": 2
   },
   "tokens": [
     {
