@@ -1,0 +1,34 @@
+{
+  "name": "PeppSwap List",
+  "logoURI": "https://peppcoin.github.io/logos/0xae70b9223348af9875c49ec7b9E5B5Ba5bBb635a.png",
+  "keywords": [
+    "peppswap"
+  ],
+  "timestamp": "2023-05-11T01:01:51.032Z",
+  "tags": {},
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 1
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xae70b9223348af9875c49ec7b9E5B5Ba5bBb635a",
+      "symbol": "PEPP",
+      "name": "Pepp",
+      "decimals": 18,
+      "logoURI": "https://peppcoin.github.io/list/logos/0xae70b9223348af9875c49ec7b9E5B5Ba5bBb635a.png",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x1ce270557C1f68Cfb577b856766310Bf8B47FD9C",
+      "symbol": "MONG",
+      "name": "MongCoin",
+      "decimals": 18,
+      "logoURI": "https://peppcoin.github.io/list/logos/0x1ce270557C1f68Cfb577b856766310Bf8B47FD9C.png",
+      "tags": []
+    }
+  ]
+}
